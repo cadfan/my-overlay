@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>my-overlay</name>
+      <description lang="en">cadfan's Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/my-name/my-overlay</homepage>
+        <owner type="person">
+            <name>Christopher Griffiths</name>
+            <email>gentoo@cgriff.co.uk</email>
+        </owner>
+        
+git://github.com/cadfam/my-overlay.git
+
+        <feed>https://github.com/cadfan/my-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
+

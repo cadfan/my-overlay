@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>gentoo@cgriff.co.uk</email>
+		<name>Christopher Griffiths</name>
+	</maintainer>
+	<longdescription lang="en">
+		Flash OS images to SD cards & USB drives, safely and easily
+	</longdescription>
+	<upstream>
+		<remote-id type="github" balena-io/etcher</remote-id>
+		<bugs-to>https://github.com/balena-io/etcher/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
