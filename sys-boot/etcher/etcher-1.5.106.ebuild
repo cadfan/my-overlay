@@ -62,4 +62,3 @@ pkg_postinst() {
 pkg_postrm() {
 	xdg_icon_cache_update
 }
-"
